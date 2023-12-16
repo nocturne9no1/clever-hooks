@@ -1,0 +1,7 @@
+{
+  "name": "clever-hooks",
+  "version": "0.0.2",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT"
+}
